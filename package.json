@@ -1,0 +1,17 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "blood-donation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
